@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Developer | React, Next.js, TypeScript, Tailwind CSS | Building responsive web apps and modern user interfaces.
 ----------------------------------------------------------------------------------------------------------
 
-I'm currently leveraging this experience into frontend web development with passion for building innovative modern web applications integrated with AI.
-
 Coming from a C# background, I bring strong fundamental engineering principles to modern full-stack web development. I specialize in building responsive, high-performance applications using React, Next.js, TypeScript, Node.js, Tailwind CSS and PostgreSQL.
 
 * 🌍  I'm based in Tampa, FL
